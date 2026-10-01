@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Harder Labs</title>
+  <desc id="desc">A laboratory for what's next, based in Austin, Texas.</desc>
+  <defs>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#d4f576" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="75%" cy="45%" r="75%">
+      <stop stop-color="#2d4232"/>
+      <stop offset="1" stop-color="#111715"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="360" fill="url(#glow)"/>
+  <rect width="1200" height="360" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="358" fill="none" stroke="#d4f576" stroke-opacity=".3" stroke-width="2"/>
+  <ellipse cx="1000" cy="182" rx="225" ry="92" transform="rotate(-24 1000 182)" fill="none" stroke="#d4f576" stroke-opacity=".28" stroke-width="2"/>
+  <ellipse cx="1000" cy="182" rx="154" ry="154" fill="none" stroke="#d4f576" stroke-opacity=".17" stroke-width="2"/>
+  <circle cx="865" cy="98" r="6" fill="#e4ad72"/>
+  <path d="M855 98h-21m31 0h21M865 88V67m0 41v21" stroke="#e4ad72" stroke-opacity=".55" stroke-width="1"/>
+  <rect x="62" y="78" width="197" height="197" fill="#17231b" stroke="#d4f576" stroke-width="3"/>
+  <path d="M110 119v115m100-115v115M110 176h100" fill="none" stroke="#d4f576" stroke-width="20" stroke-linecap="square"/>
+  <rect x="255" y="74" width="8" height="8" fill="#d4f576"/>
+  <text x="310" y="104" fill="#8fd7ca" font-family="monospace" font-size="15" letter-spacing="3">INDEPENDENT VENTURE LAB / AUSTIN, TEXAS</text>
+  <text x="305" y="198" fill="#f3f1e8" font-family="sans-serif" font-weight="700" font-size="74" letter-spacing="-4">HARDER <tspan fill="#d4f576">LABS</tspan></text>
+  <text x="310" y="247" fill="#c5cbbf" font-family="sans-serif" font-size="30" letter-spacing="-1">A laboratory for what's next.</text>
+  <path d="M310 281h178" stroke="#d4f576" stroke-width="2"/>
+  <text x="310" y="311" fill="#8fd7ca" font-family="monospace" font-size="13" letter-spacing="2">ENGINEERING  ×  COMMERCE  ×  COMMUNITY</text>
+  <text x="1057" y="326" fill="#a2ad9e" font-family="monospace" font-size="12" letter-spacing="2">HL–01</text>
+</svg>

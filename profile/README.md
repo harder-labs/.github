@@ -1,37 +1,26 @@
+![Harder Labs — A laboratory for what's next](banner.svg)
+
 # Harder Labs
 
-**Building What's Next** | Austin, Texas
+**An independent venture lab in Austin, Texas.**
 
-<img src="https://harder.dev/img/logo_128.png" alt="Harder Labs Logo" width="128" style="float:right; margin: 0 0 1rem 1rem;" />
+We build and operate e-commerce brands, community platforms, and software products. We turn curious ideas into useful products, then keep improving them with real-world feedback.
 
-[Harder Labs](https://harder.dev) is an engineering-led product studio and venture laboratory. We build and operate online communities, diverse e-commerce brands, and software experiments. 25+ years of engineering experience, a bias toward shipping fast, and a genuine curiosity about discovering and using the technologies of tomorrow.
+[Explore the lab](https://harder.dev) · [Our projects](https://harder.dev/projects) · [About us](https://harder.dev/about) · [Get in touch](https://harder.dev/contact)
 
-Learn more at [harder.dev](https://harder.dev)
+## Ideas out in the wild
 
-## Projects
+| Venture | What it does |
+| --- | --- |
+| [Hill Country Gear](https://hillcountrygear.com) | Guides, clothing, and gear for exploring the Texas Hill Country. |
+| [SharePuzzles](https://sharepuzzles.com) | A community puzzle exchange platform that helps people share puzzles and discover new ones. |
+| [Stellar Arcade](https://stellararcade.com) | A marketplace for retro electronics, sci-fi and fantasy collectibles, and trading card games. |
+| [Austin Puzzle Exchange](https://austinpuzzles.com) | Free neighborhood puzzle exchanges in Austin, Texas, where neighbors share and discover jigsaw puzzles. |
 
-| Project | Description |
-|---------|-------------|
-| [Hill Country Gear](https://HillCountryGear.com) | Texas Hill Country: Adventure. Leisure. State of Mind. Hill Country Gear provides what you need to enjoy it all. Detailed guides, advice, and the best clothing and gear for Hill Country adventures. |
-| [SharePuzzles](https://SharePuzzles.com) | A community-driven exchange network designed to bring people together and help them save money. By combining a real-time exchange map with a peer-to-peer trade engine and AI-powered wish-list alerts, the platform bridges neighborhood porch swaps with a worldwide digital inventory to power a global circular puzzle economy. |
-| [Stellar Arcade](https://StellarArcade.com) | Stellar Arcade is your go-to destination for retro electronics, sci-fi & fantasy collectables, and trading card games. Explore our curated marketplace, discover rare finds, and dive into expert knowledge shared on our blog. |
-| [Austin Puzzle Exchange](https://AustinPuzzles.com) | Building community and fostering a love for puzzles through our neighborhood exchange program. Share your love of puzzles and enjoy new challenges without the cost. |
+## From questions to working products
 
-## What We Do
+- **Find the question.** Start with a real need or a community worth bringing together.
+- **Make it tangible.** Use practical engineering to put a working product in people's hands.
+- **Keep it useful.** Listen to customers and let evidence guide the next iteration.
 
-- Build and operate unique e-commerce brands
-- Ship community platforms that bring people together
-- Run practical experiments with AI and agentic systems
-- Contribute to and help with open source projects
-- Share what we learn publicly and honestly
-
-## Focus Areas
-
-- Build things with clear architecture (and defaults that aren't insane)
-- Track AI and agentic releases that can help real businesses
-- Execute practical experiments and share the outcomes
-- Operate interesting e-commerce brands that serve real customers
-
-## Stack
-
-Astro, TypeScript, C# / .NET, AWS, Azure
+We also share what we learn about engineering, AI, and open source. Follow the [Signals reading list](https://harder.dev/signals) for releases we're watching.
